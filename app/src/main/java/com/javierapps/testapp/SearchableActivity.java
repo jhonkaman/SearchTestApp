@@ -23,6 +23,9 @@ public class SearchableActivity extends ActionBarActivity {
         }
     }
 
+    public void doMySearch(String my_query) {
+        
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
